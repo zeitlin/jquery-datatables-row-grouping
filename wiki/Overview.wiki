@@ -15,7 +15,7 @@ $("#myTable").dataTable().rowGrouping();
 
 }}}
 
-This line of code group rows in the table by the first column.
+This line of code group rows in the table by the first column. There are several stragegies that can be used for grouping (e.g. group by letters, year etc) - you can see details in the GroupingTypes page.
 
 == Options ==
 RowGrouping plugin can be customized if you pass various options to the initialization code. Example of the customization using a plugin parameters is shown in the following example:
