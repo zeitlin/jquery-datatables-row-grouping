@@ -26,6 +26,7 @@ $("#myTable").dataTable().rowGrouping({iGroupingColumnIndex:5});
 
 }}}
 Using this line of code, row grouping will not be done by the first column - column 5 will be used instead.
+See more datails about plugin options on the [Options] page
 
 == Examples == 
 
